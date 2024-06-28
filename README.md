@@ -1,6 +1,6 @@
 # DoctorAppointmentsDB
 
-## Appointment system.
+## Appointment syste -
 
 There can be many users using our appointment  system. We have lot of clinics onboarded along with their doctors. A doctor can go to multiple clinics. A user can book an appointment to a doctor going to a particular clinic by choosing a time.
 
@@ -13,6 +13,10 @@ Design a single database, add relevant optimisations and write optimised queries
 4. Appointments for a particular patient in the last 7 days 
 5. Appointment cancellation percentage for a doctor by clinic
 
+
+## ER Diagram -
+
+![ER Diagram](https://github.com/flow6979/DoctorAppointmentsDB/blob/main/ER%20Diagram.png)
 
 ## Queries explanation - 
 
