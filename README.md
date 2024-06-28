@@ -1,6 +1,6 @@
 # DoctorAppointmentsDB
 
-## Appointment syste -
+## Appointment system -
 
 There can be many users using our appointment  system. We have lot of clinics onboarded along with their doctors. A doctor can go to multiple clinics. A user can book an appointment to a doctor going to a particular clinic by choosing a time.
 
